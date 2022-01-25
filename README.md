@@ -1,7 +1,3 @@
-<div style="display: flex; justify-content: center;">
-  <img src="https://user-images.githubusercontent.com/75246159/129765975-874b5e2c-f65b-485d-b71c-ce9571db49e7.jpg" width="150px" height="auto" />
-</div>
-
 <h1 align="center">Hi 👋, I'm Md. Mofijur Rahman <Ahmad /></h1>
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
 
