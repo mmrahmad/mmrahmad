@@ -1,7 +1,7 @@
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/mmrahmad/mmrahmad/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
-
+<div style="display: flex; justify-content: space-between">
+  <div>
 <h1 align="center">Hi 👋, I'm Md. Mofijur Rahman <Ahmad /></h1>
-<h3 align="center">A passionate full stack developer from Bangladesh</h3>
+<h3 align="center">A passionate full stack (MERN Stack) developer from Bangladesh</h3>
 
 - 🔭 I’m currently working on [RixoTech](http://rixotech.com)
 
@@ -12,6 +12,11 @@
 - 📫 How to reach me **info@mmrahmad.com**
 
 - 📄 Know about my experiences [https://mmrahmad.com](https://mmrahmad.com)
+  </div>
+  <div>
+    <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/mmrahmad/mmrahmad/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+  </div>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
