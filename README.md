@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: space-between">
+<div>
   <div>
 <h1 align="center">Hi 👋, I'm Md. Mofijur Rahman <Ahmad /></h1>
 <h3 align="center">A passionate full stack (MERN Stack) developer from Bangladesh</h3>
@@ -13,8 +13,8 @@
 
 - 📄 Know about my experiences [https://mmrahmad.com](https://mmrahmad.com)
   </div>
-  <div>
-    <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/mmrahmad/mmrahmad/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+  <div style="position: relative; top: 0; right: 0;">
+    <a href="https://app.daily.dev/mmrahmad"><img src="https://github.com/mmrahmad/mmrahmad/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
   </div>
 </div>
 
