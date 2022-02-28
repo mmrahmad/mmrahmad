@@ -30,7 +30,7 @@
 * [UI/UX](#ui)
 * [Operating System](#os)
 
-### Languages {#languages}
+<h3 id="languages">Languages</h3>
 
 | Icon | Title | Details |
 | :--- | :--- | :--- |
@@ -40,7 +40,7 @@
 | <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> | HTML | I learned HTML-5 |
 | <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> | CSS | I learned CSS 3 |
 
-### JS Frameworks & Libraries {#js}
+<h3 id="js">JS Frameworks & Libraries</h3>
 
 | Icon | Title | Details |
 | :--- | :--- | :--- |
@@ -50,7 +50,7 @@
 | <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> | Redux |  JavaScript library for managing and centralizing application state. |
 | <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> | ChartJS | JavaScript library for data visualization |
   
-### CSS Framworks & Tools {#css}
+<h3 id="css">CSS Framworks & Tools</h3>
 
 | Icon | Title | Details |
 | :--- | :--- | :--- |
@@ -58,7 +58,7 @@
 | <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> | Tailwind CSS | A CSS framework |
 | <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> | Bootstrap |A CSS framework |
 
-### Server Technology (Backend) {#server}
+<h3 id="server">Server Technology (Backend)</h3>
 
 | Icon | Title | Details |
 | :--- | :--- | :--- |
@@ -68,21 +68,21 @@
 | <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> | Firebase | Firebase is a platform developed by Google for creating mobile and web applications. |
 | <a href="https://hasura.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/hasuraio/hasuraio-icon.svg" alt="hasura" width="40" height="40"/> </a> | Hasura | Hasura gives you instant GraphQL & REST APIs on new & existing data sources. |
 
-### Database {#database}
+<h3 id="database">Database</h3>
 
 | Icon | Title | Details |
 | :--- | :--- | :--- |
 | <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> | MongoDB | MongoDB is a source-available cross-platform document-oriented database program |
 |  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> | mySQL | MySQL is an open-source relational database management system |
 
-### Dev Tools {#devtools}
+<h3 id="devtools">Dev Tools</h3>
 
 | Icon | Title | Details |
 | :--- | :--- | :--- |
 | <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> | Git & Github | A version control tool |
 | <a href="https://developer.chrome.com/docs/devtools/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg" alt="Chrome Dev Tool" width="40" height="40"/> </a> | Chrome Dev Tool |  |
 
-### UI {#ui}
+<h3 id="ui">UI</h3>
 
 | Icon | Title | Details |
 | :--- | :--- | :--- |
@@ -91,7 +91,7 @@
 | <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> | Adobe Illustratro | A Design Tool |
 | <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> | Adobe Photoshop | A Design Tool |
 
-### Operating System {#os}
+<h3 id="os">Operating System</h3>
 
 | Icon | Title | Details |
 | :--- | :--- | :--- |
