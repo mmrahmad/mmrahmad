@@ -1,9 +1,9 @@
 <h3 align="center"> 👇 Introduction 👇</h3>
 
 <h1 align="center"> Hi 👋, I'm Md. Mofijur Rahman (Ahmad) <span><img src="https://komarev.com/ghpvc/?username=mmrahmad&label=Profile%20views&color=0e75b6&style=flat" alt="mmrahmad" /></span></h1>
-<h3 align="center">A passionate full stack (MERN Stack) developer from Bangladesh</h3>
+<h3 align="center">A passionate full stack (MERN Stack) developer.</h3>
 
-~~~
+
 
 - 🔭 I’m currently working on [RixoTech](http://rixotech.com)
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [mmrahmad.com](https://mmrahmad.com)
 
-~~~
+
 
 <a href="https://app.daily.dev/mmrahmad"><img src="https://github.com/mmrahmad/mmrahmad/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
 
