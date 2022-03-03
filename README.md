@@ -118,9 +118,11 @@
 
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmrahmad&show_icons=true&locale=en&layout=compact" alt="mmrahmad" /></p>
-
----
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmrahmad&" alt="mmrahmad" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mmrahmad&show_icons=true&theme=gotham" alt="rahmatsubandi" />&nbsp;
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmrahmad&layout=compact&theme=gotham" alt="top lang" />
+  <br />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmrahmad&" alt="mmrahmad" />
+</p>
 
