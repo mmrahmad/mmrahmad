@@ -1,8 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm <strong>Ahmad</strong>, Fullstack developer from <img src="https://cdn-icons.flaticon.com/png/512/3371/premium/3371885.png" width="13"/> <b>Bangladesh</b>. </p>
+<p>Welcome to my page! </br> I'm <strong>Ahmad</strong>, Fullstack developer from <img src="https://user-images.githubusercontent.com/75246159/158305575-e232d1a7-3c92-4ce5-9b6a-99a7bb7ff8d5.png" width="25"/> <b>Bangladesh</b>. </p>
 <p><img src="https://komarev.com/ghpvc/?username=mmrahmad&label=Profile%20views&color=0e75b6&style=flat" alt="mmrahmad" /></p>
-
 
 
 - 🔭 I’m currently working on [RixoTech](http://rixotech.com)
