@@ -1,7 +1,7 @@
-<h3 align="center"> 👇 Introduction 👇</h3>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<h1 align="center"> Hi 👋, I'm Md. Mofijur Rahman (Ahmad) <span><img src="https://komarev.com/ghpvc/?username=mmrahmad&label=Profile%20views&color=0e75b6&style=flat" alt="mmrahmad" /></span></h1>
-<h3 align="center">A passionate full stack (MERN Stack) developer.</h3>
+<p>Welcome to my page! </br> I'm <strong>Ahmad</strong>, Fullstack developer from <img src="https://cdn-icons.flaticon.com/png/512/3371/premium/3371885.png" width="13"/> <b>Bangladesh</b>. </p>
+<p><img src="https://komarev.com/ghpvc/?username=mmrahmad&label=Profile%20views&color=0e75b6&style=flat" alt="mmrahmad" /></p>
 
 
 
