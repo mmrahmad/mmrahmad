@@ -24,3 +24,4 @@
 
 #### Some JS tools
 - [EditorJS](https://editorjs.io/)
+- [GOT](https://www.npmjs.com/package/got)
