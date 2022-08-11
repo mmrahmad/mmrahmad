@@ -97,3 +97,11 @@
 
 </div>
 
+<div align="center">
+
+[![WakaTime Stats Total](https://wakatime.com/badge/user/7af36449-a2e6-411a-b2d5-fa06aa28bfc1.svg?style=for-the-badge)](https://wakatime.com/@mmrahmad)
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mmrahmad&layout=compact&langs_count=10&custom_title=Coding+Time&range=all_time&theme=graywhite&hide_title=true#gh-light-mode-only)
+
+</div>
+
