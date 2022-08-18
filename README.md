@@ -6,7 +6,7 @@
 <p><img src="https://komarev.com/ghpvc/?username=mmrahmad&label=Profile%20views&color=0e75b6&style=flat" alt="mmrahmad" /></p>
 
 <ul align="left">
-<li> 🔭 I’m currently working on [RixoTech](http://rixotech.com)</li>
+<li> 🔭 I’m currently working on <a href="http://rixotech.com"> RixoTech</a></li>
 
 <li> 💬 Ask me about <strong>Frontend OR Backend Development</strong></li>
 
@@ -27,15 +27,15 @@
 
 #### Languages
 
-| C Language | JavaScript |  Type Script | HTML |  CSS |
+| C Language | JavaScript |  TypeScript | HTML |  CSS |
 | :--- | :--- | :--- | :--- | :--- |
 | <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> | <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> | <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> | <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> |
 
 #### JS Frameworks & Libraries
 
-| NextJS | React | BableJS | Redux | ChartJS |
-| :--- | :--- | :--- | :--- | :--- |
-| <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> | <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> | <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> |  <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> | Redux | <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> | ChartJS |
+| NextJS | React | Svelte | Vue | Redux | ChartJS |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> | <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> | <a href="https://svelte.dev" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/svelte-wordmark-1.svg"  alt="Svelte" width="40" height="40" /> </a> | <a href="https://vuejs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="Vue" width="40" height="40"/> </a> |  <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> | <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> |
   
 #### CSS Framworks & Tools
 
@@ -47,7 +47,7 @@
 
 | NodeJS | Express JS | NestJS | Firebase | Hasura |
 | :--- | :--- | :--- | :--- | :--- |
-| <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> | <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> | Express JS | <a href="https://nestjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="NestJS" width="40" height="40"/> </a> | NestJS | <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> | Firebase | <a href="https://hasura.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/hasuraio/hasuraio-icon.svg" alt="hasura" width="40" height="40"/> </a> |
+| <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> | <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> |  <a href="https://nestjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="NestJS" width="40" height="40"/> </a> | <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> | <a href="https://hasura.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/hasuraio/hasuraio-icon.svg" alt="hasura" width="40" height="40"/> </a> |
 
 #### Database
 
@@ -68,9 +68,9 @@
 | <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> | <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> | <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> | <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> |
 <h3 id="os">Operating System</h3>
 
-| Linux | Windows | Details |
-| :--- | :--- | :--- |
-| <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> | <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/windows-10.png" alt="windows" width="40" height="40"/> </a> | 
+| Linux | Windows |
+| :--- | :--- |
+| <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> | <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/windows-10.png" alt="windows" width="40" height="40"/> </a> |
 
 
 ---
