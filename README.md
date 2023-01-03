@@ -1,4 +1,9 @@
 <div align="center">
+
+  
+![GO_Developer](https://user-images.githubusercontent.com/75246159/210303761-08f37a8e-5a53-42e2-b6c5-f5a23079767f.jpg)
+
+<br />
   
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
@@ -16,8 +21,6 @@
 </ul>
 
 
-<br />
-![GO Developer](https://user-images.githubusercontent.com/75246159/210303761-08f37a8e-5a53-42e2-b6c5-f5a23079767f.jpg)
 <br />
 
 ---
