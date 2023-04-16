@@ -106,7 +106,3 @@
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mmrahmad&layout=compact&langs_count=10&custom_title=Coding+Time&range=all_time&theme=graywhite&hide_title=true#gh-light-mode-only)
 
 </div>
-
-<div align="center">
-  <a href="https://app.daily.dev/mmrahmad"><img src="https://github.com/mmrahmad/mmrahmad/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
-</div>
