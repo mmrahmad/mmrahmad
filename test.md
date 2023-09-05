@@ -1,19 +1,13 @@
 ```
+├── docs
+│   ├── img
+│   └── releasing
+├── helm-chart
+│   └── templates
+├── istio-manifests
+├── kubernetes-manifests
 ├── kustomize
 │   ├── base
-│   │   ├── adservice.yaml
-│   │   ├── cartservice.yaml
-│   │   ├── checkoutservice.yaml
-│   │   ├── currencyservice.yaml
-│   │   ├── emailservice.yaml
-│   │   ├── frontend.yaml
-│   │   ├── kustomization.yaml
-│   │   ├── loadgenerator.yaml
-│   │   ├── paymentservice.yaml
-│   │   ├── productcatalogservice.yaml
-│   │   ├── recommendationservice.yaml
-│   │   ├── redis.yaml
-│   │   └── shippingservice.yaml
 │   ├── components
 │   │   ├── alloydb
 │   │   ├── container-images-registry
@@ -29,27 +23,96 @@
 │   │   ├── single-shared-session
 │   │   ├── spanner
 │   │   └── without-loadgenerator
-│   ├── kustomization.yaml
-│   ├── README.md
 │   └── tests
 │       ├── memorystore-with-all-components
-│       ├── README.md
 │       ├── service-mesh-istio-with-all-components
 │       └── spanner-with-all-components
-├── LICENSE
-├── Makefile
 ├── protos
-│   ├── demo.proto
 │   └── grpc
 │       └── health
-├── README.md
+│           └── v1
 ├── release
-│   ├── istio-manifests.yaml
-│   └── kubernetes-manifests.yaml
 ├── scripts
-│   ├── run-service.sh
-│   └── sqlc.sh
-├── skaffold.yaml
-├── sqlc.yaml
+├── src
+│   ├── api-gateway
+│   │   ├── docs
+│   │   ├── middlewares
+│   │   ├── server
+│   │   │   └── v1
+│   │   ├── services
+│   │   │   └── v1
+│   │   ├── socket
+│   │   └── utils
+│   ├── auth-service
+│   │   ├── controllers
+│   │   ├── db
+│   │   │   ├── migrations
+│   │   │   │   ├── global
+│   │   │   │   │   └── v1
+│   │   │   │   └── schema-level
+│   │   │   │       └── v1
+│   │   │   ├── queries
+│   │   │   │   └── v1
+│   │   │   └── sqlc
+│   │   │       └── v1
+│   │   ├── pb
+│   │   │   └── v1
+│   │   ├── proto
+│   │   │   └── v1
+│   │   ├── repositories
+│   │   │   └── v1
+│   │   ├── scripts
+│   │   ├── token
+│   │   └── utils
+│   ├── emailservice
+│   │   └── templates
+│   ├── executorservice
+│   ├── itch-tv-service
+│   │   ├── channels
+│   │   ├── client
+│   │   ├── controllers
+│   │   │   └── v1
+│   │   ├── models
+│   │   │   └── v1
+│   │   ├── pb
+│   │   │   └── v1
+│   │   ├── proto
+│   │   │   └── v1
+│   │   ├── repositories
+│   │   ├── servers
+│   │   └── utils
+│   ├── ordermatchservice
+│   │   └── internal
+│   ├── tradeclientservice
+│   │   ├── config
+│   │   ├── internal
+│   │   ├── tmp
+│   │   └── utils
+│   ├── userservice
+│   │   ├── controllers
+│   │   │   └── v1
+│   │   ├── db
+│   │   │   ├── migrations
+│   │   │   │   ├── global
+│   │   │   │   │   └── v1
+│   │   │   │   └── schema-level
+│   │   │   │       └── v1
+│   │   │   ├── queries
+│   │   │   │   └── v1
+│   │   │   └── sqlc
+│   │   │       └── v1
+│   │   ├── models
+│   │   │   └── v1
+│   │   ├── pb
+│   │   │   └── v1
+│   │   ├── proto
+│   │   │   └── v1
+│   │   ├── repositories
+│   │   │   └── v1
+│   │   ├── services
+│   │   │   └── v1
+│   │   └── utils
+│   └── validators
+└── terraform
 
 ```
