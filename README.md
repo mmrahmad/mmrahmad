@@ -5,7 +5,10 @@
 
 <br />
   
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<div> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <span style="font-size:1.5rem; font-weight:bold;">Hey! Nice to see you.</span></div>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p>Welcome to my page! <br /> I'm <strong>Ahmad</strong>, Fullstack developer from <img src="https://user-images.githubusercontent.com/75246159/158305575-e232d1a7-3c92-4ce5-9b6a-99a7bb7ff8d5.png" width="25"/> <b>Bangladesh</b>. </p>
 <p><img src="https://komarev.com/ghpvc/?username=mmrahmad&label=Profile%20views&color=0e75b6&style=flat" alt="mmrahmad" /></p>
@@ -22,6 +25,14 @@
 
 
 <br />
+
+---
+
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 ---
 
