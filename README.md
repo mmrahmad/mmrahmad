@@ -13,6 +13,8 @@
 <p>Welcome to my page! <br /> I'm <strong>Ahmad</strong>, Fullstack developer from <img src="https://user-images.githubusercontent.com/75246159/158305575-e232d1a7-3c92-4ce5-9b6a-99a7bb7ff8d5.png" width="25"/> <b>Bangladesh</b>. </p>
 <p><img src="https://komarev.com/ghpvc/?username=mmrahmad&label=Profile%20views&color=0e75b6&style=flat" alt="mmrahmad" /></p>
 
+[![WakaTime Stats Total](https://wakatime.com/badge/user/7af36449-a2e6-411a-b2d5-fa06aa28bfc1.svg?style=for-the-badge)](https://wakatime.com/@mmrahmad)
+
 <ul align="left">
 <li> 🔭 I’m currently working on <a href="http://rixotech.com"> RixoTech</a></li>
 
@@ -102,18 +104,14 @@
 
 ### 👇 Have a look 👇
 
-  <img src="https://github-readme-stats.vercel.app/api?username=mmrahmad&show_icons=true&theme=gotham" alt="rahmatsubandi" />&nbsp;
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmrahmad&layout=compact&theme=gotham" alt="top lang" />
-  <br />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmrahmad&" alt="mmrahmad" />
+|      |      |
+| :--- | :--- |
+| <img src="https://github-readme-stats.vercel.app/api?username=mmrahmad&show_icons=true&theme=gotham" alt="rahmatsubandi" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmrahmad&" alt="mmrahmad" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmrahmad&layout=compact&theme=gotham" alt="top lang" /> | ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mmrahmad&layout=compact&langs_count=10&custom_title=Coding+Time&range=all_time&theme=graywhite&hide_title=true#gh-light-mode-only) |
 
 </div>
 
 <div align="center">
 
-[![WakaTime Stats Total](https://wakatime.com/badge/user/7af36449-a2e6-411a-b2d5-fa06aa28bfc1.svg?style=for-the-badge)](https://wakatime.com/@mmrahmad)
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mmrahmad&layout=compact&langs_count=10&custom_title=Coding+Time&range=all_time&theme=graywhite&hide_title=true#gh-light-mode-only)
 
 </div>
