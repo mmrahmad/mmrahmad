@@ -90,6 +90,16 @@
 
 ---
 
+### 👇 Have a look 👇
+
+|      |      |
+| :--- | :--- |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmrahmad&layout=compact&theme=gotham" alt="top lang" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmrahmad&" alt="mmrahmad" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=mmrahmad&show_icons=true&theme=gotham" alt="rahmatsubandi" /> | ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mmrahmad&layout=compact&langs_count=10&custom_title=Coding+Time&range=all_time&theme=graywhite&hide_title=true#gh-light-mode-only) |
+
+
+---
+
 ### 👇 Connect With Me 👇
 
 
@@ -99,14 +109,6 @@
 | Dev Community | <a href="https://stackoverflow.com/users/mmrahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mmrahmad" height="30" width="40" /></a> | <a href="https://dev.to/mmrahmad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mmrahmad" height="30" width="40" /></a> | <a href="https://codesandbox.com/mmrahmad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="mmrahmad" height="30" width="40" /></a> |
 | Social Media | <a href="https://twitter.com/mmrahmad91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mmrahmad91" height="30" width="40" /></a> | <a href="https://linkedin.com/in/mmrahmad91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mmrahmad91" height="30" width="40" /></a> | <a href="https://instagram.com/mmrahmad91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mmrahmad91" height="30" width="40" /></a> |
 | _ | <a href="https://fb.com/mmrahmad91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mmrahmad91" height="30" width="40" /></a> | <a href="https://dribbble.com/mmrahmad91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="mmrahmad91" height="30" width="40" /></a> | <a href="https://www.behance.net/mmrahmad91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mmrahmad91" height="30" width="40" /></a> |
-
----
-
-### 👇 Have a look 👇
-
-|      |      |
-| :--- | :--- |
-| <img src="https://github-readme-stats.vercel.app/api?username=mmrahmad&show_icons=true&theme=gotham" alt="rahmatsubandi" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmrahmad&" alt="mmrahmad" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmrahmad&layout=compact&theme=gotham" alt="top lang" /> | ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mmrahmad&layout=compact&langs_count=10&custom_title=Coding+Time&range=all_time&theme=graywhite&hide_title=true#gh-light-mode-only) |
 
 </div>
 
