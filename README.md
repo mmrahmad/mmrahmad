@@ -92,10 +92,14 @@
 
 ### 👇 Have a look 👇
 
-|      |      |
-| :--- | :--- |
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmrahmad&layout=compact&theme=gotham" alt="top lang" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmrahmad&" alt="mmrahmad" /> |
-| <img src="https://github-readme-stats.vercel.app/api?username=mmrahmad&show_icons=true&theme=gotham" alt="rahmatsubandi" /> | ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mmrahmad&layout=compact&langs_count=10&custom_title=Coding+Time&range=all_time&theme=graywhite&hide_title=true#gh-light-mode-only) |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mmrahmad&layout=compact&langs_count=10&custom_title=Coding+Time&range=all_time&theme=graywhite&hide_title=true#gh-light-mode-only" alt="WakaTime Stats">
+</p>
+
+|      |      |      |
+| :--- | :--- | :--- |
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmrahmad&" alt="mmrahmad" /> | <img src="https://github-readme-stats.vercel.app/api?username=mmrahmad&show_icons=true&theme=gotham" alt="rahmatsubandi" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmrahmad&layout=compact&theme=gotham" alt="top lang" /> |
+
 
 
 ---
