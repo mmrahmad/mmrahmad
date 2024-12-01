@@ -11,7 +11,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p>Welcome to my page! <br /> I'm <strong>Ahmad</strong>, Fullstack developer from <img src="https://user-images.githubusercontent.com/75246159/158305575-e232d1a7-3c92-4ce5-9b6a-99a7bb7ff8d5.png" width="25"/> <b>Bangladesh</b>. </p>
-<p><img src="https://komarev.com/ghpvc/?username=mmrahmad&label=Profile%20views&color=0e75b6&style=flat" alt="mmrahmad" /></p>
+<p><img src="https://komarev.com/ghpvc/?username=mmrahmad&label=Profile%20views&color=0e75b6&style=flat" alt="mmrahmad" />
+</p>
 
 [![WakaTime Stats Total](https://wakatime.com/badge/user/7af36449-a2e6-411a-b2d5-fa06aa28bfc1.svg?style=for-the-badge)](https://wakatime.com/@mmrahmad)
 
@@ -42,9 +43,9 @@
 
 #### Languages
 
-| Go | JavaScript |  TypeScript | HTML |  CSS |
-| :--- | :--- | :--- | :--- | :--- |
-| <a href="https://devicon.dev/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="python" width="40" height="40"/> </a> | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> | <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> | <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> | <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> |
+| Go | JavaScript |  TypeScript | Dart |
+| :--- | :--- | :--- | :--- |
+| <a href="https://devicon.dev/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="python" width="40" height="40"/> </a> | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> | <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> | <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg" alt="html5" width="40" height="40"/> </a> |
 
 #### JS Frameworks & Libraries
 
