@@ -1,113 +1,124 @@
-# [<img src="docs/assets/logo.png"> React Portfolio](https://ryanbalieiro.github.io/react-portfolio-template/) by Ryan Balieiro
+<div align="center">
 
-A sleek, futuristic portfolio template for developers – built with **React** and **Bootstrap 5**.
+  
+![GO_Developer](https://user-images.githubusercontent.com/75246159/210303761-08f37a8e-5a53-42e2-b6c5-f5a23079767f.jpg)
 
-![alt promo](docs/assets/readme-promotional-image-min.png)
+<br />
+  
+<div> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <span style="font-size:1.5rem; font-weight:bold;">Hey! Nice to see you.</span></div>
 
-Key features:
-- Lightweight and fully responsive.
-- Adapts perfectly to mobile screens.
-- Multi-language support included.
-- Comes with both dark and light theme options.
-- A variety of components to highlight your work experience, education, skills, portfolio, and more.
-- Uses **Vite** for packaging.
-- Emails with **EmailJS** - no backend needed!
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Live Preview
+<p>Welcome to my page! <br /> I'm <strong>Ahmad</strong>, Fullstack developer from <img src="https://user-images.githubusercontent.com/75246159/158305575-e232d1a7-3c92-4ce5-9b6a-99a7bb7ff8d5.png" width="25"/> <b>Bangladesh</b>. </p>
+<p><img src="https://komarev.com/ghpvc/?username=mmrahmad&label=Profile%20views&color=0e75b6&style=flat" alt="mmrahmad" />
+</p>
 
-Here's a list of live versions of the template:
+[![WakaTime Stats Total](https://wakatime.com/badge/user/7af36449-a2e6-411a-b2d5-fa06aa28bfc1.svg?style=for-the-badge)](https://wakatime.com/@mmrahmad)
 
-| #     | Version             | Description                                             | URL                                                                     |
-|-------|---------------------|---------------------------------------------------------|-------------------------------------------------------------------------|
-| 🟢    | MMR Ahmad (default) | Latest deployment of the template here on GitHub pages. | [Preview](https://ryanbalieiro.github.io/react-portfolio-template/)     |
-| 🟣    | Emily Park          | An example of how the template can be customized.       | [Preview](https://ryansandbox.github.io/emily-park-react-portfolio/)    |
-| 🔵    | Michael Özkan       | Another example of how the template can be customized.  | [Preview](https://ryansandbox.github.io/michael-ozkan-react-portfolio/) |
+<ul align="left">
+<li> 🔭 I’m currently working on <a href="http://rixotech.com"> RixoTech</a></li>
 
-## Layout and concept
+<li> 💬 Ask me about <strong>Frontend OR Backend Development</strong></li>
 
-### 1. Base layout
-The layout uses a fixed central view with a left sidebar, adjusting perfectly across various monitor resolutions, from 4:3 to ultra-wide.
+<li> 📫 How to reach me <a href="mailto:info@mmrahmad.com">info@mmrahmad.com</a></li>
 
-![alt layout](docs/assets/readme-home-preview-min.png)
+<li> 📄 Know about my experiences <a href="https://mmrahmad.com">mmrahmad.com</a>
+</ul>
 
-### 2. Desktop Screenshots
-The main view transitions smoothly when a new page is selected from the sidebar, giving a page-flipping effect. The sidebar is also toggleable, allowing the content area to expand for a larger viewing space.
 
-![alt desktop](docs/assets/readme-desktop-screenies-min.png)
+<br />
 
-### 3. Mobile Screenshots
-On mobile, the layout groups the portfolio sections into categories and transforms into a tabbed interface with a bottom navigation.
+---
 
-![alt mobile](docs/assets/readme-mobile-screenies-min.png)
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
-## Getting Started
+---
 
-1. Clone the repo:
-```
-git clone https://github.com/ryanbalieiro/react-portfolio-template
-```
+### 👇 Languages and Tools 👇
 
-2. Go to the project's root folder and use npm to install all required components:
-```
-npm install
-```
+#### Languages
 
-3. Launch the project in developer mode:
-```
-npm run dev
-```
+| Go | JavaScript |  TypeScript | Dart |
+| :--- | :--- | :--- | :--- |
+| <a href="https://devicon.dev/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="python" width="40" height="40"/> </a> | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> | <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> | <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg" alt="html5" width="40" height="40"/> </a> |
 
-## Customization Tutorial
+#### JS Frameworks & Libraries
 
-Follow this step-by-step guide to customize the template with your own content and styles. You can either read the documentation or watch the interactive video tutorials:
+| NextJS | React | Svelte | Vue | Redux | ChartJS |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> | <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> | <a href="https://svelte.dev" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/svelte-wordmark-1.svg"  alt="Svelte" width="40" height="40" /> </a> | <a href="https://vuejs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="Vue" width="40" height="40"/> </a> |  <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> | <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> |
+  
+#### CSS Framworks & Tools
 
-| #    | Title                       | Docs                                                                    | Video Tutorial                                                           |
-|------|-----------------------------|-------------------------------------------------------------------------|--------------------------------------------------------------------------|
-| 1    | Setting up the project      | [See Docs](./docs/tutorials/TUTORIAL_01_SETTING_UP_THE_PROJECT.md)      | [Watch on YouTube](https://www.youtube.com/watch?v=PnV8p1xm7-o&t=0m00s)  | 
-| 2    | Configuring settings.json   | [See Docs](./docs/tutorials/TUTORIAL_02_CONFIGURING_SETTINGS_JSON.md)   | [Watch on YouTube](https://www.youtube.com/watch?v=PnV8p1xm7-o&t=1m40s)  |  
-| 3    | Titles and Colors           | [See Docs](./docs/tutorials/TUTORIAL_03_TITLES_AND_COLORS.md)           | [Watch on YouTube](https://www.youtube.com/watch?v=PnV8p1xm7-o&t=5m09s)  |
-| 4    | Profile and Strings         | [See Docs](./docs/tutorials/TUTORIAL_04_PROFILE_AND_STRINGS.md)         | [Watch on YouTube](https://www.youtube.com/watch?v=PnV8p1xm7-o&t=9m11s)  |
-| 5    | Categories and Sections     | [See Docs](./docs/tutorials/TUTORIAL_05_CATEGORIES_AND_SECTIONS.md)     | [Watch on YouTube](https://www.youtube.com/watch?v=PnV8p1xm7-o&t=12m57s) | 
-| 6    | Section Titles              | [See Docs](./docs/tutorials/TUTORIAL_06_SECTION_TITLES.md)              | [Watch on YouTube](https://www.youtube.com/watch?v=PnV8p1xm7-o&t=15m14s) |
-| 7    | Section Articles            | [See Docs](./docs/tutorials/TUTORIAL_07_SECTION_ARTICLES.md)            | [Watch on YouTube](https://www.youtube.com/watch?v=PnV8p1xm7-o&t=17m01s) |
-| 8    | ArticleInlineList           | [See Docs](./docs/tutorials/TUTORIAL_08_ARTICLE_INLINE_LIST.md)         | [Watch on YouTube](https://www.youtube.com/watch?v=PnV8p1xm7-o&t=18m24s) |
-| 9    | ArticleText                 | [See Docs](./docs/tutorials/TUTORIAL_09_ARTICLE_TEXTS.md)               | [Watch on YouTube](https://www.youtube.com/watch?v=PnV8p1xm7-o&t=20m48s) |
-| 10   | ArticleCards                | [See Docs](./docs/tutorials/TUTORIAL_10_ARTICLE_CARDS.md)               | [Watch on YouTube](https://www.youtube.com/watch?v=PnV8p1xm7-o&t=23m23s) |
-| 11   | ArticleSkills               | [See Docs](./docs/tutorials/TUTORIAL_11_ARTICLE_SKILLS.md)              | [Watch on YouTube](https://www.youtube.com/watch?v=PnV8p1xm7-o&t=25m43s) |
-| 12   | ArticleTimeline             | [See Docs](./docs/tutorials/TUTORIAL_12_ARTICLE_TIMELINE.md)            | [Watch on YouTube](https://www.youtube.com/watch?v=PnV8p1xm7-o&t=29m57s) |
-| 13   | ArticleStack                | [See Docs](./docs/tutorials/TUTORIAL_13_ARTICLE_STACK.md)               | [Watch on YouTube](https://www.youtube.com/watch?v=PnV8p1xm7-o&t=34m40s) |
-| 14   | ArticlePortfolio            | [See Docs](./docs/tutorials/TUTORIAL_14_ARTICLE_PORTFOLIO.md)           | [Watch on YouTube](https://www.youtube.com/watch?v=PnV8p1xm7-o&t=37m00s) |
-| 15   | ArticleTestimonials         | [See Docs](./docs/tutorials/TUTORIAL_15_ARTICLE_TESTIMONIALS.md)        | [Watch on YouTube](https://www.youtube.com/watch?v=PnV8p1xm7-o&t=40m08s) |
-| 16   | ArticleInfoList             | [See Docs](./docs/tutorials/TUTORIAL_16_ARTICLE_INFO_LIST.md)           | [Watch on YouTube](https://www.youtube.com/watch?v=PnV8p1xm7-o&t=42m05s) |
-| 17   | ArticleFacts                | [See Docs](./docs/tutorials/TUTORIAL_17_ARTICLE_FACTS.md)               | [Watch on YouTube](https://www.youtube.com/watch?v=PnV8p1xm7-o&t=44m04s) |
-| 18   | ArticleThreads              | [See Docs](./docs/tutorials/TUTORIAL_18_ARTICLE_THREADS.md)             | [Watch on YouTube](https://www.youtube.com/watch?v=PnV8p1xm7-o&t=45m57s) |
-| 19   | ArticleContactForm          | [See Docs](./docs/tutorials/TUTORIAL_19_ARTICLE_CONTACT_FORM.md)        | [Watch on YouTube](https://www.youtube.com/watch?v=PnV8p1xm7-o&t=48m02s) |
-| 20   | Categorizing article items  | [See Docs](./docs/tutorials/TUTORIAL_20_CATEGORIZING_ARTICLE_ITEMS.md)  | [Watch on YouTube](https://www.youtube.com/watch?v=PnV8p1xm7-o&t=52m58s) |
-| 21   | Deploying for production    | [See Docs](./docs/tutorials/TUTORIAL_21_DEPLOYING_FOR_PRODUCTION.md)    | [Watch on YouTube](https://www.youtube.com/watch?v=PnV8p1xm7-o&t=55m34s) |
+| SASS |  Tailwind CSS | Bootstrap |
+| :--- | :--- | :--- |
+| <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> | <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> | <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> |
 
-### Bonus Tutorials
+#### Server Technology (Backend)
 
-Follow these additional tutorials to further enhance your portfolio with advanced features:
+| NodeJS | Express JS | NestJS | Firebase | Hasura |
+| :--- | :--- | :--- | :--- | :--- |
+| <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> | <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> |  <a href="https://nestjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="NestJS" width="40" height="40"/> </a> | <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> | <a href="https://hasura.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/hasuraio/hasuraio-icon.svg" alt="hasura" width="40" height="40"/> </a> |
 
-| #    | Title                            | Docs                                                                               | Watch                                                                      |
-|------|----------------------------------|------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
-| 22   | Creating your own custom article | [See Docs](./docs/tutorials/TUTORIAL_22_BONUS_CREATING_YOUR_OWN_CUSTOM_ARTICLE.md) | [Watch on YouTube](https://www.youtube.com/watch?v=PnV8p1xm7-o&t=1h00m12s) |
+#### Database
 
-## About
+| MongoDB | mySQL |
+| :--- | :--- |
+| <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> | <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> |
 
-This template was created by and is maintained by **[Ryan Balieiro](https://ryanbalieiro.com/)**.
+#### Dev Tools
 
-It's based on the **[React](https://reactjs.org/)** framework created by Jordan Walke, and the **[Bootstrap](https://getbootstrap.com/)** framework created by Mark Otto and Jacob Thorton.
+| Git & Github | Chrome Dev Tool  |
+| :--- | :--- |
+| <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> | <a href="https://developer.chrome.com/docs/devtools/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg" alt="Chrome Dev Tool" width="40" height="40"/> </a> |
 
-Additional frameworks and plugins used include:
-- **Smooth Scrollbar**: A customizable scrollbar plugin.
-- **Swiper**: A powerful library for creating touch sliders.
-- **EmailJS**: A free service that allows you to send emails using JavaScript.
-- **Font Awesome**: A library of free vector icons.
-- **PrimeIcons**: A collection of premium line icons.
+#### UI
 
-## Copyright and License
+| Figma | Adobe XD | Adobe Illustrator |  Adobe Photoshop |
+| :--- | :--- | :--- | :--- |
+| <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> | <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> | <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> | <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> |
+<h3 id="os">Operating System</h3>
 
-Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-agency/blob/master/LICENSE) license, providing complete freedom for utilization. Feel free to enhance and adapt it to suit your needs.
+| Linux | Windows |
+| :--- | :--- |
+| <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> | <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/windows-10.png" alt="windows" width="40" height="40"/> </a> |
 
-Oh... and if you like this template, don't forget to **give it a ⭐** :)
+
+---
+
+### 👇 Have a look 👇
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mmrahmad&layout=compact&langs_count=10&custom_title=Coding+Time&range=all_time&theme=graywhite&hide_title=true#gh-light-mode-only" alt="WakaTime Stats">
+</p>
+
+|      |      |      |
+| :--- | :--- | :--- |
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmrahmad&" alt="mmrahmad" /> | <img src="https://github-readme-stats.vercel.app/api?username=mmrahmad&show_icons=true&theme=gotham" alt="rahmatsubandi" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmrahmad&layout=compact&theme=gotham" alt="top lang" /> |
+
+
+
+---
+
+### 👇 Connect With Me 👇
+
+
+| Type | Platform | Platform | Platform |
+| :--- | :------- | :------- | :------- |
+| Email | [info@mmrahmad.com](mailto:info@mmrmahmad.com) | [mmrahamd91@gmail.com](mailto:mmrahmad91@gmail.com) | _ |
+| Dev Community | <a href="https://stackoverflow.com/users/mmrahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mmrahmad" height="30" width="40" /></a> | <a href="https://dev.to/mmrahmad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mmrahmad" height="30" width="40" /></a> | <a href="https://codesandbox.com/mmrahmad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="mmrahmad" height="30" width="40" /></a> |
+| Social Media | <a href="https://twitter.com/mmrahmad91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mmrahmad91" height="30" width="40" /></a> | <a href="https://linkedin.com/in/mmrahmad91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mmrahmad91" height="30" width="40" /></a> | <a href="https://instagram.com/mmrahmad91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mmrahmad91" height="30" width="40" /></a> |
+| _ | <a href="https://fb.com/mmrahmad91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mmrahmad91" height="30" width="40" /></a> | <a href="https://dribbble.com/mmrahmad91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="mmrahmad91" height="30" width="40" /></a> | <a href="https://www.behance.net/mmrahmad91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mmrahmad91" height="30" width="40" /></a> |
+
+</div>
+
+<div align="center">
+
+
+
+</div>
