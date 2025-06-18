@@ -113,6 +113,8 @@ const AppEssentialsWrapper = ({children}) => {
  */
 const AppCapabilitiesWrapper = ({ children }) => {
     const data = useData()
+    console.log({data});
+    
 
     const [selectedThemeId, setSelectedThemeId] = useState(null)
 
