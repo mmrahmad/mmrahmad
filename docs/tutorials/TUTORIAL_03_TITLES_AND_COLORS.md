@@ -29,7 +29,7 @@ For a smoother visual transition, you can also match the splash screen backgroun
 ```html
 <body style="background-color: #1b2226">
     <div id="root"></div>
-    <script type="module" src="/src/main.jsx"></script>
+    <script type="module" src="/src/main"></script>
 </body>
 ```
 

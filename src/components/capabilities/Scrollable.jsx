@@ -1,8 +1,8 @@
 import "./Scrollable.scss"
 import React, {useEffect, useState} from 'react'
-import {useViewport} from "/src/providers/ViewportProvider.jsx"
-import {useUtils} from "/src/hooks/utils.js"
-import {useConstants} from "/src/hooks/constants.js"
+import {useViewport} from "/src/providers/ViewportProvider"
+import {useUtils} from "/src/hooks/utils"
+import {useConstants} from "/src/hooks/constants"
 import Scrollbar from 'smooth-scrollbar'
 import OverscrollPlugin from 'smooth-scrollbar/plugins/overscroll'
 

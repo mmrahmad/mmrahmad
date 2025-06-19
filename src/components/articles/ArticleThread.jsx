@@ -1,7 +1,7 @@
 import "./ArticleThread.scss"
 import React, {useEffect, useState} from 'react'
-import Article from "/src/components/articles/base/Article.jsx"
-import Collapsable from "/src/components/capabilities/Collapsable.jsx"
+import Article from "/src/components/articles/base/Article"
+import Collapsable from "/src/components/capabilities/Collapsable"
 import {ArticleItemInfoForTimelines, ArticleItemInfoForTimelinesBody, ArticleItemInfoForTimelinesHeader, ArticleItemInfoForTimelinesPreviewFooter} from "/src/components/articles/partials/ArticleItemInfoForTimelines"
 
 /**

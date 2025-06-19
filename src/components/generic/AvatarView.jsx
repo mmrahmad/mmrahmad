@@ -1,6 +1,6 @@
 import "./AvatarView.scss"
 import React, {useEffect, useState} from 'react'
-import ImageView from "/src/components/generic/ImageView.jsx"
+import ImageView from "/src/components/generic/ImageView"
 
 function AvatarView({ src = "", alt = "", faIcon = "", className = "",  id = null, style = null }) {
     return (

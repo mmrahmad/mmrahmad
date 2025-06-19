@@ -1,8 +1,8 @@
 import "./ArticleTimeline.scss"
 import React, {useEffect, useState} from 'react'
-import Article from "/src/components/articles/base/Article.jsx"
-import AvatarView from "/src/components/generic/AvatarView.jsx"
-import {ArticleItemInfoForTimelines, ArticleItemInfoForTimelinesHeader, ArticleItemInfoForTimelinesTagsFooter, ArticleItemInfoForTimelinesBody} from "/src/components/articles/partials/ArticleItemInfoForTimelines.jsx"
+import Article from "/src/components/articles/base/Article"
+import AvatarView from "/src/components/generic/AvatarView"
+import {ArticleItemInfoForTimelines, ArticleItemInfoForTimelinesHeader, ArticleItemInfoForTimelinesTagsFooter, ArticleItemInfoForTimelinesBody} from "/src/components/articles/partials/ArticleItemInfoForTimelines"
 
 /**
  * @param {ArticleDataWrapper} dataWrapper

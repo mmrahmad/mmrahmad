@@ -1,9 +1,9 @@
 import React, {useEffect, useState} from 'react'
-import {useLanguage} from "/src/providers/LanguageProvider.jsx"
-import {useUtils} from "/src/hooks/utils.js"
-import OptionPickerButton from "/src/components/buttons/OptionPickerButton.jsx"
-import {useData} from "/src/providers/DataProvider.jsx"
-import {useFeedbacks} from "/src/providers/FeedbacksProvider.jsx"
+import {useLanguage} from "/src/providers/LanguageProvider"
+import {useUtils} from "/src/hooks/utils"
+import OptionPickerButton from "/src/components/buttons/OptionPickerButton"
+import {useData} from "/src/providers/DataProvider"
+import {useFeedbacks} from "/src/providers/FeedbacksProvider"
 
 function NavToolResumeDownloader() {
     const language = useLanguage()

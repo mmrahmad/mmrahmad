@@ -1,10 +1,10 @@
 import "./LayoutNavigation.scss"
 import React, {useEffect, useState} from 'react'
-import NavSidebar from "/src/components/nav/NavSidebar.jsx"
-import NavTabController from "/src/components/nav/NavTabController.jsx"
-import NavHeaderMobile from "/src/components/nav/NavHeaderMobile.jsx"
-import {useViewport} from "/src/providers/ViewportProvider.jsx"
-import NavLinkPillsFixed from "/src/components/nav/partials/NavLinkPillsFixed.jsx"
+import NavSidebar from "/src/components/nav/NavSidebar"
+import NavTabController from "/src/components/nav/NavTabController"
+import NavHeaderMobile from "/src/components/nav/NavHeaderMobile"
+import {useViewport} from "/src/providers/ViewportProvider"
+import NavLinkPillsFixed from "/src/components/nav/partials/NavLinkPillsFixed"
 
 function LayoutNavigation({ children, profile = null, sectionLinks = [], categoryLinks = [] }) {
     const viewport = useViewport()

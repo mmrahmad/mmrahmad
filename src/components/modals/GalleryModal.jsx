@@ -3,9 +3,9 @@ import React, {useEffect, useState} from 'react'
 import {ModalWrapper, ModalWrapperTitle, ModalWrapperBody} from "/src/components/modals/base/ModalWrapper"
 import { Swiper, SwiperSlide } from 'swiper/react'
 import {Pagination} from "swiper/modules"
-import {useUtils} from "/src/hooks/utils.js"
-import {useViewport} from "/src/providers/ViewportProvider.jsx"
-import {useScheduler} from "/src/hooks/scheduler.js"
+import {useUtils} from "/src/hooks/utils"
+import {useViewport} from "/src/providers/ViewportProvider"
+import {useScheduler} from "/src/hooks/scheduler"
 import {Spinner} from "react-bootstrap"
 
 function GalleryModal({ target, onDismiss }) {

@@ -1,13 +1,13 @@
 import "./ArticleSkills.scss"
 import React, {useEffect, useState} from 'react'
-import Article from "/src/components/articles/base/Article.jsx"
-import {useUtils} from "/src/hooks/utils.js"
-import Collapsable from "/src/components/capabilities/Collapsable.jsx"
-import {useViewport} from "/src/providers/ViewportProvider.jsx"
-import {useConstants} from "/src/hooks/constants.js"
-import AvatarView from "/src/components/generic/AvatarView.jsx"
-import {useLocation} from "/src/providers/LocationProvider.jsx"
-import NumberAnimation from "/src/components/generic/NumberAnimation.jsx"
+import Article from "/src/components/articles/base/Article"
+import {useUtils} from "/src/hooks/utils"
+import Collapsable from "/src/components/capabilities/Collapsable"
+import {useViewport} from "/src/providers/ViewportProvider"
+import {useConstants} from "/src/hooks/constants"
+import AvatarView from "/src/components/generic/AvatarView"
+import {useLocation} from "/src/providers/LocationProvider"
+import NumberAnimation from "/src/components/generic/NumberAnimation"
 
 /**
  * @param {ArticleDataWrapper} dataWrapper

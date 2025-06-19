@@ -5,9 +5,9 @@
  * @usage
  * npm run resume:clear
  */
-import {useNpmLogger} from "./snippets/_npm-log.js"
-import {useNpmFileUtils} from "./snippets/_npm-files.js"
-import {useNpmJsonUtils} from "./snippets/_npm-json.js"
+import {useNpmLogger} from "./snippets/_npm-log"
+import {useNpmFileUtils} from "./snippets/_npm-files"
+import {useNpmJsonUtils} from "./snippets/_npm-json"
 
 const logger = useNpmLogger()
 const fileUtils = useNpmFileUtils()

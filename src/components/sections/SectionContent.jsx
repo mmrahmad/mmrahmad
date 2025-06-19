@@ -1,7 +1,7 @@
 import "./SectionContent.scss"
 import React, {useEffect, useState} from 'react'
-import SectionHeader from "/src/components/sections/SectionHeader.jsx"
-import SectionBody from "/src/components/sections/SectionBody.jsx"
+import SectionHeader from "/src/components/sections/SectionHeader"
+import SectionBody from "/src/components/sections/SectionBody"
 
 function SectionContent({ section }) {
     return (

@@ -1,8 +1,8 @@
 import "./YoutubeVideoModal.scss"
 import React, {useEffect, useState} from 'react'
-import {useUtils} from "/src/hooks/utils.js"
+import {useUtils} from "/src/hooks/utils"
 import {ModalWrapper, ModalWrapperBody, ModalWrapperFooterDescription, ModalWrapperTitle} from "/src/components/modals/base/ModalWrapper"
-import {useLanguage} from "/src/providers/LanguageProvider.jsx"
+import {useLanguage} from "/src/providers/LanguageProvider"
 
 function YoutubeVideoModal({ target, onDismiss }) {
     const language = useLanguage()

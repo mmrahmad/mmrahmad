@@ -4,10 +4,10 @@
  * @description This hook provides methods to parse and validate data loaded from JSON files.
  */
 
-import {useViewport} from "/src/providers/ViewportProvider.jsx"
-import {useLanguage} from "/src/providers/LanguageProvider.jsx"
-import {useTheme} from "/src/providers/ThemeProvider.jsx"
-import ArticleDataWrapper from "/src/hooks/models/ArticleDataWrapper.js"
+import {useViewport} from "/src/providers/ViewportProvider"
+import {useLanguage} from "/src/providers/LanguageProvider"
+import {useTheme} from "/src/providers/ThemeProvider"
+import ArticleDataWrapper from "/src/hooks/models/ArticleDataWrapper"
 
 export const useParser = () => {
     const viewport = useViewport()

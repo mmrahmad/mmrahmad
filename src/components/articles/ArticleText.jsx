@@ -1,7 +1,7 @@
 import "./ArticleText.scss"
 import React, {useEffect, useState} from 'react'
-import Article from "/src/components/articles/base/Article.jsx"
-import AvatarView from "/src/components/generic/AvatarView.jsx"
+import Article from "/src/components/articles/base/Article"
+import AvatarView from "/src/components/generic/AvatarView"
 
 /**
  * @param {ArticleDataWrapper} dataWrapper

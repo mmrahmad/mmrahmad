@@ -1,7 +1,7 @@
 import React, {useEffect, useState} from 'react'
-import {useFeedbacks} from "/src/providers/FeedbacksProvider.jsx"
-import {useLanguage} from "/src/providers/LanguageProvider.jsx"
-import OptionPickerButton from "/src/components/buttons/OptionPickerButton.jsx"
+import {useFeedbacks} from "/src/providers/FeedbacksProvider"
+import {useLanguage} from "/src/providers/LanguageProvider"
+import OptionPickerButton from "/src/components/buttons/OptionPickerButton"
 
 function NavToolCursorToggle() {
     const feedbacks = useFeedbacks()

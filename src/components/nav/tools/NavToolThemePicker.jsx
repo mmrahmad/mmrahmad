@@ -1,7 +1,7 @@
 import React, {useEffect, useState} from 'react'
-import {useLanguage} from "/src/providers/LanguageProvider.jsx"
-import {useTheme} from "/src/providers/ThemeProvider.jsx"
-import OptionPickerButton from "/src/components/buttons/OptionPickerButton.jsx"
+import {useLanguage} from "/src/providers/LanguageProvider"
+import {useTheme} from "/src/providers/ThemeProvider"
+import OptionPickerButton from "/src/components/buttons/OptionPickerButton"
 
 function NavToolThemePicker() {
     const theme = useTheme()

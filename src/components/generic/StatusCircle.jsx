@@ -1,9 +1,9 @@
 import "./StatusCircle.scss"
 import React, {useEffect, useState} from 'react'
-import {useViewport} from "/src/providers/ViewportProvider.jsx"
-import Tooltip from "/src/components/generic/Tooltip.jsx"
-import {useUtils} from "/src/hooks/utils.js"
-import {useInput} from "/src/providers/InputProvider.jsx"
+import {useViewport} from "/src/providers/ViewportProvider"
+import Tooltip from "/src/components/generic/Tooltip"
+import {useUtils} from "/src/hooks/utils"
+import {useInput} from "/src/providers/InputProvider"
 
 function StatusCircle({ variant, message, size = "status-circle-size-default", className = "", onClick = null }) {
     const viewport = useViewport()

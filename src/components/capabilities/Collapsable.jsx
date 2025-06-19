@@ -1,8 +1,8 @@
 import "./Collapsable.scss"
 import React, {useEffect, useState} from 'react'
-import {useUtils} from "/src/hooks/utils.js"
-import StandardButton from "/src/components/buttons/StandardButton.jsx"
-import {useLanguage} from "/src/providers/LanguageProvider.jsx"
+import {useUtils} from "/src/hooks/utils"
+import StandardButton from "/src/components/buttons/StandardButton"
+import {useLanguage} from "/src/providers/LanguageProvider"
 
 function Collapsable({ children, id, breakpointId, initialVisibleItems = 0, itemsPerStep = 0, className = "", trailingItemComponent = null }) {
     const utils = useUtils()

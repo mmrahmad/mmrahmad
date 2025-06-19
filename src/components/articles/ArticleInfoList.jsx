@@ -1,9 +1,9 @@
 import "./ArticleInfoList.scss"
 import React, {useEffect, useState} from 'react'
-import Article from "/src/components/articles/base/Article.jsx"
-import AvatarView from "/src/components/generic/AvatarView.jsx"
-import Link from "/src/components/generic/Link.jsx"
-import {useViewport} from "/src/providers/ViewportProvider.jsx"
+import Article from "/src/components/articles/base/Article"
+import AvatarView from "/src/components/generic/AvatarView"
+import Link from "/src/components/generic/Link"
+import {useViewport} from "/src/providers/ViewportProvider"
 
 /**
  * @param {ArticleDataWrapper} dataWrapper

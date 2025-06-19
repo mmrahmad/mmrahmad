@@ -1,7 +1,7 @@
 import React, {useEffect, useState} from 'react'
-import CircularButton from "/src/components/buttons/CircularButton.jsx"
-import {useUtils} from "/src/hooks/utils.js"
-import {useLanguage} from "/src/providers/LanguageProvider.jsx"
+import CircularButton from "/src/components/buttons/CircularButton"
+import {useUtils} from "/src/hooks/utils"
+import {useLanguage} from "/src/providers/LanguageProvider"
 
 function NavToolFullscreenToggle({ className = "" }) {
     const utils = useUtils()

@@ -5,8 +5,8 @@
  */
 
 import React, {createContext, useContext, useEffect, useState} from 'react'
-import {useUtils} from "/src/hooks/utils.js"
-import {useScheduler} from "/src/hooks/scheduler.js"
+import {useUtils} from "/src/hooks/utils"
+import {useScheduler} from "/src/hooks/scheduler"
 
 function InputProvider({ children }) {
     const utils = useUtils()

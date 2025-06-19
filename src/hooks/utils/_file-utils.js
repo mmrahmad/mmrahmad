@@ -7,7 +7,7 @@ export const _fileUtils = {
     /**
      * @string
      */
-    BASE_URL: import.meta.env.BASE_URL,
+    BASE_URL: import.meta.env.VITE_BASE_URL,
 
     /**
      * @param {String} url
@@ -47,6 +47,8 @@ export const _fileUtils = {
         if(path.startsWith("http"))
             return path
         const baseUrl = _fileUtils.BASE_URL || ""
+        console.log({baseUrl, path});
+        
         return baseUrl + path
     },
 }

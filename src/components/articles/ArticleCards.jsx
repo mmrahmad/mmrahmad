@@ -1,13 +1,13 @@
 import "./ArticleCards.scss"
 import React, {useEffect, useState} from 'react'
-import Article from "/src/components/articles/base/Article.jsx"
-import Swipeable from "/src/components/capabilities/Swipeable.jsx"
-import AvatarView from "/src/components/generic/AvatarView.jsx"
-import DateBadge from "/src/components/widgets/DateBadge.jsx"
-import CircularButton from "/src/components/buttons/CircularButton.jsx"
-import Link from "/src/components/generic/Link.jsx"
-import {useConstants} from "/src/hooks/constants.js"
-import {useViewport} from "/src/providers/ViewportProvider.jsx"
+import Article from "/src/components/articles/base/Article"
+import Swipeable from "/src/components/capabilities/Swipeable"
+import AvatarView from "/src/components/generic/AvatarView"
+import DateBadge from "/src/components/widgets/DateBadge"
+import CircularButton from "/src/components/buttons/CircularButton"
+import Link from "/src/components/generic/Link"
+import {useConstants} from "/src/hooks/constants"
+import {useViewport} from "/src/providers/ViewportProvider"
 
 /**
  * @param {ArticleDataWrapper} dataWrapper

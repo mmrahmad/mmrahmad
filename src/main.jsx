@@ -1,19 +1,19 @@
 import "/src/styles/app.scss"
 import {StrictMode, useEffect, useState} from 'react'
 import {createRoot} from 'react-dom/client'
-import {useApi} from "/src/hooks/api.js"
-import {useConstants} from "/src/hooks/constants.js"
-import {useUtils} from "/src/hooks/utils.js"
-import Preloader from "/src/components/loaders/Preloader.jsx"
-import DataProvider, {useData} from "/src/providers/DataProvider.jsx"
-import LanguageProvider from "/src/providers/LanguageProvider.jsx"
-import ViewportProvider from "/src/providers/ViewportProvider.jsx"
-import ThemeProvider from "/src/providers/ThemeProvider.jsx"
-import LocationProvider from "/src/providers/LocationProvider.jsx"
-import FeedbacksProvider from "/src/providers/FeedbacksProvider.jsx"
-import InputProvider from "/src/providers/InputProvider.jsx"
-import NavigationProvider from "/src/providers/NavigationProvider.jsx"
-import Portfolio from "/src/components/Portfolio.jsx"
+import {useApi} from "/src/hooks/api"
+import {useConstants} from "/src/hooks/constants"
+import {useUtils} from "/src/hooks/utils"
+import Preloader from "/src/components/loaders/Preloader"
+import DataProvider, {useData} from "/src/providers/DataProvider"
+import LanguageProvider from "/src/providers/LanguageProvider"
+import ViewportProvider from "/src/providers/ViewportProvider"
+import ThemeProvider from "/src/providers/ThemeProvider"
+import LocationProvider from "/src/providers/LocationProvider"
+import FeedbacksProvider from "/src/providers/FeedbacksProvider"
+import InputProvider from "/src/providers/InputProvider"
+import NavigationProvider from "/src/providers/NavigationProvider"
+import Portfolio from "/src/components/Portfolio"
 
 /** Initialization Script... **/
 let container = null

@@ -1,9 +1,9 @@
 import "./ConfirmationWindowModal.scss"
 import React, {useEffect, useState} from 'react'
-import {useLanguage} from "/src/providers/LanguageProvider.jsx"
+import {useLanguage} from "/src/providers/LanguageProvider"
 import {ModalWrapper, ModalWrapperBody, ModalWrapperTitle} from "/src/components/modals/base/ModalWrapper"
-import StandardButton from "/src/components/buttons/StandardButton.jsx"
-import {useViewport} from "/src/providers/ViewportProvider.jsx"
+import StandardButton from "/src/components/buttons/StandardButton"
+import {useViewport} from "/src/providers/ViewportProvider"
 
 function ConfirmationWindowModal({ target, onDismiss }) {
     const language = useLanguage()

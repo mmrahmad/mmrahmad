@@ -1,12 +1,12 @@
 import "./NavProfileCard.scss"
 import React, {useEffect, useState} from 'react'
 import {Card} from "react-bootstrap"
-import {useLanguage} from "/src/providers/LanguageProvider.jsx"
-import {useNavigation} from "/src/providers/NavigationProvider.jsx"
-import {useUtils} from "/src/hooks/utils.js"
-import ImageView from "/src/components/generic/ImageView.jsx"
-import StatusCircle from "/src/components/generic/StatusCircle.jsx"
-import TextTyper from "/src/components/generic/TextTyper.jsx"
+import {useLanguage} from "/src/providers/LanguageProvider"
+import {useNavigation} from "/src/providers/NavigationProvider"
+import {useUtils} from "/src/hooks/utils"
+import ImageView from "/src/components/generic/ImageView"
+import StatusCircle from "/src/components/generic/StatusCircle"
+import TextTyper from "/src/components/generic/TextTyper"
 
 function NavProfileCard({ profile, expanded }) {
     const language = useLanguage()

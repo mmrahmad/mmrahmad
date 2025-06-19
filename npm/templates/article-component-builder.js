@@ -3,7 +3,7 @@ export default function makeArticleComponent(componentName, slug) {
 /** ARTICLE FILE TEMPLATE **/
 return `import "./${componentName}.scss"
 import React, {useEffect, useState} from 'react'
-import Article from "/src/components/articles/base/Article.jsx"
+import Article from "/src/components/articles/base/Article"
 
 /**
  * @param {ArticleDataWrapper} dataWrapper

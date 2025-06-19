@@ -1,13 +1,13 @@
 import "./Section.scss"
 import React, {useEffect, useState} from 'react'
-import {useScheduler} from "/src/hooks/scheduler.js"
-import Scrollable from "/src/components/capabilities/Scrollable.jsx"
-import {useFeedbacks} from "/src/providers/FeedbacksProvider.jsx"
-import {useInput} from "/src/providers/InputProvider.jsx"
-import {useViewport} from "/src/providers/ViewportProvider.jsx"
-import SectionContent from "/src/components/sections/SectionContent.jsx"
-import NavToolFullscreenToggle from "/src/components/nav/tools/NavToolFullscreenToggle.jsx"
-import {useNavigation} from "/src/providers/NavigationProvider.jsx"
+import {useScheduler} from "/src/hooks/scheduler"
+import Scrollable from "/src/components/capabilities/Scrollable"
+import {useFeedbacks} from "/src/providers/FeedbacksProvider"
+import {useInput} from "/src/providers/InputProvider"
+import {useViewport} from "/src/providers/ViewportProvider"
+import SectionContent from "/src/components/sections/SectionContent"
+import NavToolFullscreenToggle from "/src/components/nav/tools/NavToolFullscreenToggle"
+import {useNavigation} from "/src/providers/NavigationProvider"
 
 function Section({ section, visible, shouldTransition }) {
     const [status, setStatus] = useState(Section.Status.HIDDEN)

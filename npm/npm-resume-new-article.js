@@ -5,9 +5,9 @@
  * @usage
  * npm run resume:make:article
  */
-import {useNpmLogger} from "./snippets/_npm-log.js"
-import {useNpmFileUtils} from "./snippets/_npm-files.js"
-import makeArticleComponent from "./templates/article-component-builder.js"
+import {useNpmLogger} from "./snippets/_npm-log"
+import {useNpmFileUtils} from "./snippets/_npm-files"
+import makeArticleComponent from "./templates/article-component-builder"
 
 import fs from "fs"
 import path from "path"
@@ -47,11 +47,11 @@ fileUtils.createFile(articlesDir, scssPath, `@import "/src/styles/extend.scss";`
 logger.log(logger.LogTypes.SUCCESS, `Successfully created article: ${componentName}`)
 
 // Inject into SectionBody.jsx
-const sectionBodyPath = path.resolve("src/components/sections/SectionBody.jsx")
+const sectionBodyPath = path.resolve("src/components/sections/SectionBody")
 let sectionBodyContent = fs.readFileSync(sectionBodyPath, "utf8")
 
 // 1. Add import
-const importStatement = `import ${componentName} from "/src/components/articles/${componentName}.jsx"`
+const importStatement = `import ${componentName} from "/src/components/articles/${componentName}"`
 if (!sectionBodyContent.includes(importStatement)) {
     const importRegex = /import ArticleNotFound from .+?\n/
     sectionBodyContent = sectionBodyContent.replace(importRegex, match => `${match}${importStatement}\n`)

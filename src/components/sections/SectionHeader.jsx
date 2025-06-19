@@ -1,7 +1,7 @@
 import "./SectionHeader.scss"
 import React, {useEffect, useState} from 'react'
-import {useViewport} from "/src/providers/ViewportProvider.jsx"
-import {useParser} from "/src/hooks/parser.js"
+import {useViewport} from "/src/providers/ViewportProvider"
+import {useParser} from "/src/hooks/parser"
 
 function SectionHeader({ section }) {
     const viewport = useViewport()

@@ -1,9 +1,9 @@
 import "./NavLinkList.scss"
 import React, {useEffect, useState} from 'react'
-import Nav from "/src/components/nav/base/Nav.jsx"
-import GestureAwareButton from "/src/components/buttons/GestureAwareButton.jsx"
-import {useViewport} from "/src/providers/ViewportProvider.jsx"
-import {useUtils} from "/src/hooks/utils.js"
+import Nav from "/src/components/nav/base/Nav"
+import GestureAwareButton from "/src/components/buttons/GestureAwareButton"
+import {useViewport} from "/src/providers/ViewportProvider"
+import {useUtils} from "/src/hooks/utils"
 
 function NavLinkList({ links, expanded }) {
     const viewport = useViewport()

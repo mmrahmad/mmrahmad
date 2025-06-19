@@ -2,7 +2,7 @@
  * @author Ryan Balieiro
  * @description Handy utilities to help manage files within your npm scripts.
  */
-import {useNpmLogger} from "./_npm-log.js"
+import {useNpmLogger} from "./_npm-log"
 import path from "path"
 import fs from "fs"
 

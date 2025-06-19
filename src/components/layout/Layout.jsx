@@ -1,6 +1,6 @@
 import "./Layout.scss"
 import React, {useEffect, useState} from 'react'
-import LayoutAnimatedBackground from "/src/components/layout/LayoutAnimatedBackground.jsx"
+import LayoutAnimatedBackground from "/src/components/layout/LayoutAnimatedBackground"
 
 function Layout({ id, children, animatedBackgroundEnabled }) {
     return (

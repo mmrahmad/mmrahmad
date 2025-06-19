@@ -1,12 +1,12 @@
 import React, {useEffect, useState} from 'react'
-import Layout from "/src/components/layout/Layout.jsx"
-import {useData} from "/src/providers/DataProvider.jsx"
-import {useLanguage} from "/src/providers/LanguageProvider.jsx"
-import {useLocation} from "/src/providers/LocationProvider.jsx"
-import {useNavigation} from "/src/providers/NavigationProvider.jsx"
-import LayoutNavigation from "/src/components/layout/LayoutNavigation.jsx"
-import LayoutImageCache from "/src/components/layout/LayoutImageCache.jsx"
-import LayoutSlideshow from "/src/components/layout/LayoutSlideshow.jsx"
+import Layout from "/src/components/layout/Layout"
+import {useData} from "/src/providers/DataProvider"
+import {useLanguage} from "/src/providers/LanguageProvider"
+import {useLocation} from "/src/providers/LocationProvider"
+import {useNavigation} from "/src/providers/NavigationProvider"
+import LayoutNavigation from "/src/components/layout/LayoutNavigation"
+import LayoutImageCache from "/src/components/layout/LayoutImageCache"
+import LayoutSlideshow from "/src/components/layout/LayoutSlideshow"
 
 function Portfolio() {
     const data = useData()

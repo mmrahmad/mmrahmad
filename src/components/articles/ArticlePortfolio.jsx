@@ -1,13 +1,13 @@
 import "./ArticlePortfolio.scss"
 import React, {useEffect, useState} from 'react'
-import Article from "/src/components/articles/base/Article.jsx"
-import Transitionable from "/src/components/capabilities/Transitionable.jsx"
-import {useViewport} from "/src/providers/ViewportProvider.jsx"
-import {useConstants} from "/src/hooks/constants.js"
-import AvatarView from "/src/components/generic/AvatarView.jsx"
-import {Tag, Tags} from "/src/components/generic/Tags.jsx"
-import ArticleItemPreviewMenu from "/src/components/articles/partials/ArticleItemPreviewMenu.jsx"
-import {useLanguage} from "/src/providers/LanguageProvider.jsx"
+import Article from "/src/components/articles/base/Article"
+import Transitionable from "/src/components/capabilities/Transitionable"
+import {useViewport} from "/src/providers/ViewportProvider"
+import {useConstants} from "/src/hooks/constants"
+import AvatarView from "/src/components/generic/AvatarView"
+import {Tag, Tags} from "/src/components/generic/Tags"
+import ArticleItemPreviewMenu from "/src/components/articles/partials/ArticleItemPreviewMenu"
+import {useLanguage} from "/src/providers/LanguageProvider"
 
 /**
  * @param {ArticleDataWrapper} dataWrapper

@@ -1,9 +1,9 @@
 import "./ArticleFacts.scss"
 import React, {useEffect, useState} from 'react'
-import Article from "/src/components/articles/base/Article.jsx"
-import Swipeable from "/src/components/capabilities/Swipeable.jsx"
-import {useConstants} from "/src/hooks/constants.js"
-import AvatarView from "/src/components/generic/AvatarView.jsx"
+import Article from "/src/components/articles/base/Article"
+import Swipeable from "/src/components/capabilities/Swipeable"
+import {useConstants} from "/src/hooks/constants"
+import AvatarView from "/src/components/generic/AvatarView"
 
 /**
  * @param {ArticleDataWrapper} dataWrapper
